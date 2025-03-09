@@ -41,12 +41,13 @@ if __name__ == "__main__":
     # https://www.facebook.com/thongtinchinhphu
 #     Tháng 7/2024
 
-#t7 -> r 15:08:07
-#cp -> r 15:01:37
-#t10 -> r 15:00:25
-#t11 -> r 14:59:25
+#cp -> r 17:03:44
+#t10 -> r 17:02:11
+#t7 -> r 17:00:29
+#t11 -> r 16:55:21
+#t9 -> r 16:53:17
 #t8 -> r 14:13:54
-#t9 -> r 13:25:39
+
 
 # r -> crawing
 # d-> downloaded to vscode and ready to continue
