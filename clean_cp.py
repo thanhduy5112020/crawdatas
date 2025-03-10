@@ -41,12 +41,17 @@ if __name__ == "__main__":
     # https://www.facebook.com/thongtinchinhphu
 #     Tháng 7/2024
 
-#t8 -> die 02:33:33
+
+
+#t9 -> d 15:34:02
+#t8 -> d 15:24:26
+#t7 -> d 15:22:47
+
 #cp -> re 02:31:49
-#t9 -> d 02:30:28
+
 #t10 -> re 01:38:43
 #t11 -> re 01:25:46
-#t7 -> re 01:17:59
+
 
 
 
